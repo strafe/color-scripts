@@ -1,16 +1,10 @@
 # color-scripts
-
-> :heart: Various :green_heart: terminal :blue_heart: colo(u)r :yellow_heart: scripts :purple_heart:
+> 🌈 Terminal color scripts
 
 ## Installation
-
 - macOS
-
 ```
-$ brew tap strafe/tap
-$ brew install cs-panes
+brew install strafe/tap/cs-panes
 ```
-
 - Linux
-  - You know what you're doing :penguin:
-
+  - You know what you're doing 🐧.
